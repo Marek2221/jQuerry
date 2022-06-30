@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+}
+#panel, #text {
+    background-color: yellow;
+    border: 2px dotted greenyellow;
+    text-align: center;
+    color: red;
+    padding: 20px;
+}
+#panel {
+    height: 100px;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 0px;
+    position: relative;
+}
